@@ -18,7 +18,7 @@ Proyecto inicial
 
 1.  git init
 2.  git add . (la primera vez que se añade el repositorio) 
-    git add [nombre de fichero] (si ya esta creado)
+    git add [nombre de fichero] (si ya esta creado). Es necesario también para los ficheos modificados
 
 3.  git commit -m "Comentario"
 
@@ -31,3 +31,7 @@ Proyecto inicial
 ### Mas cosas
 
 1.  Recuperar git checkout -- .
+
+### GitHUB
+
+1.  Para subir a GitHub renombramos la carpeta dist por docs
