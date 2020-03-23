@@ -28,3 +28,6 @@ Proyecto inicial
                                     Master es la rama
                                 )
 
+### Mas cosas
+
+1.  Recuperar git checkout -- .
